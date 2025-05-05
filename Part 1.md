@@ -12,5 +12,7 @@ Two prominent types of semi-supervised relationship extraction are bootstrapping
 
 The final categorization as presented by Kejriwal et al., 2021 is unsupervised.  Unsupervised relationship extraction works without training data to discover relationships in text data that are not defined in advance.  The earliest approaches to unsupervised relationship extraction looked at lexical similarities between sets of text data such as news articles to determine their similarities.  More recent approaches have utilized either semantic relationships or lexical patterns.  Semantic relationships can be utilized to group entity pairs by their relation to one another.  Lexical patterns on the other hand can be utilized to apply labels automatically according to the syntactic patterns of sets of text identified as having similarity (Kejriwal et al., 2021). 
 
+
 References
+
 Kejriwal, Mayank, Craig A. Knoblock, and Pedro Szekely. Knowledge graphs: Fundamentals, techniques, and applications. Cambridge, MA: The MIT Press, 2021.
